@@ -9,6 +9,8 @@ A list of android tutorials
 * [Android Apprentice](https://www.raywenderlich.com/books/android-apprentice/v3.0)
 * [Android Books](https://www.raywenderlich.com/android/books)
 * [Android on Ray Wenderlich](https://www.raywenderlich.com/library?q=Android&sort_order=relevance)
+* [Advanced Android App Architecture](https://www.raywenderlich.com/books/advanced-android-app-architecture/v1.0)
+* [Android Test-Driven Development](https://www.raywenderlich.com/books/android-test-driven-development-by-tutorials/v1.0)
 * [Jetpack Compose Primer](https://www.raywenderlich.com/7111549-jetpack-compose-primer)
 * [Jetpack Compose Tutorial for Android: Getting Started](https://www.raywenderlich.com/15361077-jetpack-compose-tutorial-for-android-getting-started)
 * [Jetpack Compose](https://www.raywenderlich.com/17332237-jetpack-compose)
