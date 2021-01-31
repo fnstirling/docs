@@ -20,3 +20,5 @@ A list of android tutorials
 * [Jetpack Compose Tutorial for Android: Getting Started](https://www.raywenderlich.com/15361077-jetpack-compose-tutorial-for-android-getting-started)
 * [Jetpack Compose](https://www.raywenderlich.com/17332237-jetpack-compose)
 * [Jetpack Compose Animations Tutorial: Getting Started](https://www.raywenderlich.com/13282144-jetpack-compose-animations-tutorial-getting-started)
+* [Android User Interfaces learning path](https://www.raywenderlich.com/android/paths/androiduserinterface)
+* [Android Data and Networking learning path](https://www.raywenderlich.com/android/paths/androiddata)
