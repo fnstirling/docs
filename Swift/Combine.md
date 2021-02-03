@@ -8,7 +8,3 @@
 * [Saying hello to Combine framework — Part-1](https://medium.com/mindful-engineering/saying-hello-to-combine-framework-part-1-30d9c07210df) - 8 December 2019
 * [Saying hello to Combine framework (API Call & Parsing) — Part-2](https://medium.com/mindful-engineering/saying-hello-to-combine-framework-api-call-parsing-part-2-e412dc649664) - 23 December 2019
 * [Modern Networking in Swift 5 with URLSession, Combine and Codable](https://www.vadimbulavin.com/modern-networking-in-swift-5-with-urlsession-combine-framework-and-codable/) - Yet Another Swift Blog, 25 November 2019
-* []()
-* []()
-* []()
-* []()
