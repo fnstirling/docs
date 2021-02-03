@@ -4,4 +4,8 @@
 * [The lifecycle and semantics of a SwiftUI view](https://www.swiftbysundell.com/articles/the-lifecycle-and-semantics-of-a-swiftui-view/) - Swift by Sundell, 6 December 2020
 
 ## State
+* [A guide to SwiftUI’s state management system](https://www.swiftbysundell.com/articles/swiftui-state-management-guide/) - Swift by Sundell, 05 July 2020
 * [What’s the difference between @ObservedObject, @State, and @EnvironmentObject?](https://www.hackingwithswift.com/quick-start/swiftui/whats-the-difference-between-observedobject-state-and-environmentobject) - Hacking with Swift, 11 February 2020
+
+## Techniques
+* [Dynamically filtering a SwiftUI List](https://www.hackingwithswift.com/books/ios-swiftui/dynamically-filtering-a-swiftui-list) - Hacking with Swift, 18 April 2020

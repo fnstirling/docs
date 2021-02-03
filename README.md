@@ -4,7 +4,6 @@ Personal notes and curated resources.
 ## To Read
 
 ### Swift
-* [Dynamically filtering a SwiftUI List](https://www.hackingwithswift.com/books/ios-swiftui/dynamically-filtering-a-swiftui-list) - Hacking with Swift, 18 April 2020
 * [A guide to SwiftUI’s state management system](https://www.swiftbysundell.com/articles/swiftui-state-management-guide/) - Swift by Sundell, 05 July 2020
 * [How to use Instruments to profile your SwiftUI code and identify slow layouts](https://www.hackingwithswift.com/quick-start/swiftui/how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts) - Hacking with Swift, 10 October 2019
 * [SwiftUI Architecture: Observable Objects, the Environment and Combine (6/7)](https://www.cometchat.com/tutorials/swiftui-architecture-observable-objects-the-environment-and-combine-6-7)
