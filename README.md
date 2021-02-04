@@ -4,9 +4,6 @@ Personal notes and curated resources.
 ## To Read
 
 ### Swift
-* [A guide to SwiftUI’s state management system](https://www.swiftbysundell.com/articles/swiftui-state-management-guide/) - Swift by Sundell, 05 July 2020
-* [How to use Instruments to profile your SwiftUI code and identify slow layouts](https://www.hackingwithswift.com/quick-start/swiftui/how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts) - Hacking with Swift, 10 October 2019
-* [SwiftUI Architecture: Observable Objects, the Environment and Combine (6/7)](https://www.cometchat.com/tutorials/swiftui-architecture-observable-objects-the-environment-and-combine-6-7)
 * [Deep Inside Views, State and Performance in SwiftUI](https://medium.com/swlh/deep-inside-views-state-and-performance-in-swiftui-d23a3a44b79) - 10 September 2020
 * [Safely Updating the View State](https://swiftui-lab.com/state-changes/) - 21 November 2019
 * [SwiftUI: Understanding Declarative Programming](https://medium.com/better-programming/swiftui-understanding-declarative-programming-aaf05b2383bd) - 20 June 2019
