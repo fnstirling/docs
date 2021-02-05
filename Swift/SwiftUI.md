@@ -1,5 +1,9 @@
 # SwiftUI
 
+## Animations
+* [Advanced SwiftUI Animations – Part 1: Paths](https://swiftui-lab.com/swiftui-animations-part1/) - SwiftUI Lab, 29 August 2019
+* [Advanced SwiftUI Animations - Advanced SwiftUI Animations – Part 2: GeometryEffect](https://swiftui-lab.com/swiftui-animations-part2/) - SwiftUI Lab, 2 September 2019
+
 ## View
 * [The lifecycle and semantics of a SwiftUI view](https://www.swiftbysundell.com/articles/the-lifecycle-and-semantics-of-a-swiftui-view/) - Swift by Sundell, 6 December 2020
 
@@ -17,6 +21,7 @@
 ## Techniques
 * [Dynamically filtering a SwiftUI List](https://www.hackingwithswift.com/books/ios-swiftui/dynamically-filtering-a-swiftui-list) - Hacking with Swift, 18 April 2020
 * [Track keyboard height](https://www.cometchat.com/tutorials/swiftui-architecture-observable-objects-the-environment-and-combine-6-7)
+* [Impossible grids](https://swiftui-lab.com/impossible-grids/)
 
 ## Examples
 
