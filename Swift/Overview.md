@@ -12,3 +12,6 @@
 
 ## DateFormatter
 * [DateFormatter Date and Time Cheatsheet](https://stevenpcurtis.medium.com/dateformatter-date-and-time-cheatsheet-8bafaf4e0d2d) - Medium, 7 May 2020
+
+## NSLocalizedString
+* [NSLocalizedString](https://nshipster.com/nslocalizedstring/) - NSHipster 21 January 2013
