@@ -345,3 +345,7 @@ Sending requests from Vapor. Read more in the [client docs](https://docs.vapor.c
 ## Google Cloud
 
 * [Setting up additional databases](https://cloud.google.com/sql/docs/postgres/create-manage-databases)
+
+### Files
+
+* [Loading resources](https://adrian.schoenig.me/blog/2020/04/11/vapor-loading-resources/) - 11 April 2020
