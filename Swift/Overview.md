@@ -15,3 +15,7 @@
 
 ## NSLocalizedString
 * [NSLocalizedString](https://nshipster.com/nslocalizedstring/) - NSHipster 21 January 2013
+
+## Techniques
+* [Swift sequences: The art of being lazy](https://www.swiftbysundell.com/articles/swift-sequences-the-art-of-being-lazy/) -  Swift by Sundell - 3
+  March 2017
