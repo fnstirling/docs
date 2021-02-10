@@ -8,6 +8,13 @@ Personal notes and curated resources.
   March 2017
 * [Managing self and cancellable references when using Combine](https://www.swiftbysundell.com/articles/combine-self-cancellable-memory-management/) - Swift by Sundell, 05 Feb 2021
 
+* [Quickly replacing singletons with functions](https://www.swiftbysundell.com/tips/quickly-replacing-singletons-with-functions/) - Swift by Sundell, 27 May 2020
+* [https://www.swiftbysundell.com/articles/avoiding-singletons-in-swift/](Avoiding singletons in Swift) - Swift by Sundell, 8 October 2017
+* [Testing Swift code that uses system singletons in 3 easy steps](https://www.swiftbysundell.com/articles/testing-swift-code-that-uses-system-singletons-in-3-easy-steps/) - Swift by Sundell, 24 March 2017
+* [How to implement singletons in Swift the smart way](https://www.hackingwithswift.com/articles/88/how-to-implement-singletons-in-swift-the-smart-way) - Hacking with Swift, 28 April 2018
+
+* [How to Start Machine Learning With Swift for Apple Devices](https://laconicml.com/machine-learning-swift-apple-devices/) - Laconic Machine Learnin 
+
 
 ## To Monitor
 
