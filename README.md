@@ -15,6 +15,7 @@ Personal notes and curated resources.
 
 * [How to Start Machine Learning With Swift for Apple Devices](https://laconicml.com/machine-learning-swift-apple-devices/) - Laconic Machine Learnin 
 
+* [Building type-safe networking in Swift](https://swiftwithmajid.com/2021/02/10/building-type-safe-networking-in-swift/) - Swift with Majid, 10 Feb 2021
 
 ## To Monitor
 
