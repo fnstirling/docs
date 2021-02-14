@@ -6,6 +6,7 @@ Push Notifications notes. Primary sources of information are:
 * [Push notifications book resources](https://github.com/raywenderlich/not-materials)
 * [Generating a remote notification](https://apple.co/2Ia9iUf)
 * [Sending notification requests to APNs](https://apple.co/2mn04ih)
+* [Sending Push Notifications With Vapor](https://www.raywenderlich.com/11238593-sending-push-notifications-with-vapor)
 
 ## Remote Notifications
 
