@@ -22,3 +22,8 @@ Personal notes and curated resources.
 * [HTTP Structure Headers](https://tools.ietf.org/html/draft-ietf-httpbis-header-structure-19) - IETF, 5 December 2020
 * [Introducing Swift HTTP Structured Headers](https://github.com/apple/swift-http-structured-headers)
 * [swift-http-structured-headers](https://github.com/apple/swift-http-structured-headers)
+
+## To-do
+
+### Android
+* [Securing Network Data Tutorial for Android](https://www.raywenderlich.com/10056112-securing-network-data-tutorial-for-android) - Ray Wenderlich, 3 June 2020
