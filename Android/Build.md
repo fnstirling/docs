@@ -1,5 +1,7 @@
 # Build / Deployment
 
+
+* Configure your build https://developer.android.com/studio/build
 * Version you app https://developer.android.com/studio/publish/versioning
 * Select Build from menu bar in Android Studio
 * Select Generate Signed Bundle / APK
@@ -9,3 +11,4 @@
 * Next
 * Select release
 * Update .gitignore if exporting keystore and certificate to project folder
+* Go to the build and upload to Google Play. Your build will be in app directory. For example `PROJECT_FOLDER/app/release/FILE.aab`
