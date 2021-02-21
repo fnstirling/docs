@@ -23,3 +23,8 @@ git push -f <REMOTE> <BRANCH>
 # Remove the old files
 git gc --aggressive --prune=all
 ```
+
+Get remote information
+```shell
+git remote show <REMOTE>
+```
