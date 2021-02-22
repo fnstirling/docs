@@ -5,7 +5,7 @@
 ## Setup steps
 
 * Install themekit cli
-* (Optional) Test a new themekit cli build `theme new --password=[API_PASSWORD] --store=nudebynature-au.myshopify.com --name="cli"`
+* (Optional) Test a new themekit cli build `theme new --password=[API_PASSWORD] --store=[STORE.myshopify.com] --name="[THEME_NAME]"`
 
 ## Themekit
 
