@@ -8,7 +8,7 @@
 - Install Theme Kit CLI
 - (Optional) Test a new Theme Kit CLI build `theme new --password=[API_PASSWORD] --store=[STORE.myshopify.com] --name="[THEME_NAME]"`
 
-## Themekit
+## Theme Kit
 
 - [Official documentation](https://shopify.dev/tools/theme-kit)
 - [Getting started](https://shopify.dev/tools/theme-kit/getting-started)
