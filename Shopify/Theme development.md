@@ -5,8 +5,8 @@
 
 ## Setup steps
 
-- Install themekit cli
-- (Optional) Test a new themekit cli build `theme new --password=[API_PASSWORD] --store=[STORE.myshopify.com] --name="[THEME_NAME]"`
+- Install Theme Kit CLI
+- (Optional) Test a new Theme Kit CLI build `theme new --password=[API_PASSWORD] --store=[STORE.myshopify.com] --name="[THEME_NAME]"`
 
 ## Themekit
 
