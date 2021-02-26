@@ -30,15 +30,30 @@ echo 1 \
 echo 1 &&
 echo 2
 
-# Show all files
+# View all active processes
+top
+
+# View file contents
+cat / path / to / file
+
+# Copy contents of folder to another path
+ditto -V ~ / source / folder / ~ / new / folder /
+
+# Show all files, including hidden
 defaults write com.apple.finder AppleShowAllFiles -bool TRUE && 
 killall Finder
+
+# Selectively display some hidden files
+chflags nohidden / Library / specify the path to the desired folder
 
 # Download file
 curl -O [URL_OF_FILE]
 
 # Keep mac awake
 caffeinate
+
+# Keep awake for certain amount of time
+caffeinate -t number of seconds
 
 # Play tetris
 Emacs
@@ -77,4 +92,22 @@ sudo shutdown -h now
 
 # Restart mac
 sudo shutdown -r now
+
+# Delete files from mac trash and freespace securely
+diskutil secureErase freespace 3/Volumes/hard-drive-name 
+
+# Revoke access to contacts
+tccutil reset AddressBook
+
+# Revoke access to location data
+tccutil reset CoreLocationAgent
+
+# Get a list of all services
+launchctl list
+
+# Reschedule time machine backups
+sudo defaults write/System/Library/LaunchDaemons/com.apple.backupd-auto StartInterval -int 1800
+
+# Check for updates daily
+defaults write com.apple.SoftwareUpdate ScheduleFrequency -int 1
 ```
