@@ -25,9 +25,12 @@ Personal notes and curated resources.
 
 ## To-do
 
+### Android
+- [Securing Network Data Tutorial for Android](https://www.raywenderlich.com/10056112-securing-network-data-tutorial-for-android) - Ray Wenderlich, 3 June 2020
+
+### CSS
+- Understand clearfixes
+
 ### Swift
 - Understand $0
 - Understand convenience init
-
-### Android
-- [Securing Network Data Tutorial for Android](https://www.raywenderlich.com/10056112-securing-network-data-tutorial-for-android) - Ray Wenderlich, 3 June 2020
