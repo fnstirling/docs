@@ -1,5 +1,17 @@
 # Google Cloud Platform
 
+## Dataflow
+
+[Dataflow Under the Hood: the origin story](https://cloud.google.com/blog/products/data-analytics/how-cloud-batch-and-stream-data-processing-works) breaks down the history and background of Dataflow. The article was published on 21 August 2020.
+
+[Dataflow Under the Hood: understanding Dataflow techniques](https://cloud.google.com/blog/products/data-analytics/cloud-batch-and-stream-processing-for-analytics) looks at how Dataflow operates. This article was published on 22 August 2020.
+
+[Dataflow Under the Hood: comparing Dataflow with other tools](https://cloud.google.com/blog/products/data-analytics/dataflow-vs-other-stream-batch-processing-engines) looks at Dataflow in relation to other tools. The article was published on 25 August 2020.
+
+## Kahfka
+
+[Streaming pipelines with Scala and Kafka on Google Cloud Platform](https://medium.com/google-cloud/streaming-pipelines-with-scala-and-kafka-on-google-cloud-platform-ef39c41fc1d3) breaks down using Kafka as the message queues processing system over something like Pub/Sub. This article was published on 28 January 2020.
+
 ## Resources
 
 - [Solution icons for architectural diagrams](https://cloud.google.com/icons)
