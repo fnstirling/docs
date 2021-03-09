@@ -1,5 +1,15 @@
 # Definitions
 
+## Data
+
+**<u>Change data capture (CDC)</u>**
+
+In databases, change data capture is a set of software design patterns used to determine and track the data that has changed so that action can be taken using changed data.
+
+CDC is an approach to data integration that is based on the identification, capture and deliver of the changes made to enterprise data sources.
+
+[Read more](https://en.wikipedia.org/wiki/Change_data_capture).
+
 ## Programing
 
 **<u>Imperative programming</u>**
