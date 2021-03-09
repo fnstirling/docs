@@ -1,5 +1,15 @@
 # Definitions
 
+## Advertising
+
+**<u>Demand-side platform (DSP)</u>**
+
+An DSP is a piece of software that is used to buy advertising through automation. They are most commonly used by advertisers and agencies to purchase display, video, mobile and search ads.
+
+**<u>Supply-side platform (SSP)</u>**
+
+An SSP is a piece of software that is used to automate the selling of advertising. They are most commonly used by advertisers and agencies to sell display, video, mobile and search ads.
+
 ## Data
 
 **<u>Change data capture (CDC)</u>**
@@ -9,6 +19,10 @@ In databases, change data capture is a set of software design patterns used to d
 CDC is an approach to data integration that is based on the identification, capture and deliver of the changes made to enterprise data sources.
 
 [Read more](https://en.wikipedia.org/wiki/Change_data_capture).
+
+**<u>Data management platform (DMP)</u>**
+
+A DMP is a warehouse(s) that accumulates, stores and arranges data in a way that is useful for marketing, publishing and business purposes.
 
 ## Programing
 
