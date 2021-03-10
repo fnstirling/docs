@@ -3,13 +3,16 @@
 ## Architecture
 
 - [13 sample architectures to kickstart your Google Cloud journey](https://cloud.google.com/blog/products/application-development/13-popular-application-architectures-for-google-cloud) - Google, 18 August 2020
+- [A personal implementation of Modern Data Architecture: Getting Strava data into Google Cloud Platform](https://medium.com/slalom-data-analytics/a-personal-implementation-of-modern-data-architecture-getting-strava-data-into-google-cloud-49506446ebd4) - 26 May 2020
 - [Designing and Building Modern Data Platform on Google Cloud](https://pupuweb.com/designing-building-modern-data-platform-google-cloud/) - 21 December 2020
+- [Basic Streaming Data Enrichment on Google Cloud with Dataflow SQL](https://medium.com/google-cloud/basic-streaming-data-enrichment-on-google-cloud-with-dataflow-sql-a7684353119c) - 20 Octboer 2020
 
 ## Certifications
 
 - [Certifications](https://cloud.google.com/certification/register)
 - [Professional Data Engineer](https://cloud.google.com/certification/register)
 - [Training for Data Engineer](https://www.roitraining.com/data-engineering-on-google-cloud-platform/)
+- [](https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_unstructured_dataproc/) - July 2018
 
 ## Data connectors
 
@@ -22,6 +25,10 @@
 [Dataflow Under the Hood: understanding Dataflow techniques](https://cloud.google.com/blog/products/data-analytics/cloud-batch-and-stream-processing-for-analytics) looks at how Dataflow operates. This article was published on 22 August 2020.
 
 [Dataflow Under the Hood: comparing Dataflow with other tools](https://cloud.google.com/blog/products/data-analytics/dataflow-vs-other-stream-batch-processing-engines) looks at Dataflow in relation to other tools. The article was published on 25 August 2020.
+
+## Dataproc
+
+- [Democratizing Dataproc — dunnhumby’s journey on Google Cloud Platform](https://medium.com/dunnhumby-data-science-engineering/democratizing-dataproc-dunnhumbys-journey-on-google-cloud-platform-16e6dcc1e655) - 3 December 2019
 
 ## Kahfka
 
