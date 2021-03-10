@@ -17,6 +17,9 @@ Personal notes and curated resources.
 
 - [Building type-safe networking in Swift](https://swiftwithmajid.com/2021/02/10/building-type-safe-networking-in-swift/) - Swift with Majid, 10 Feb 2021
 
+### GCP Architecture
+- [Designing and Building Modern Data Platform on Google Cloud](https://pupuweb.com/designing-building-modern-data-platform-google-cloud/) - 21 December 2020
+
 ### Machine Learning
 - []()
 

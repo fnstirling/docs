@@ -1,5 +1,20 @@
 # Google Cloud Platform
 
+## Architecture
+
+- [13 sample architectures to kickstart your Google Cloud journey](https://cloud.google.com/blog/products/application-development/13-popular-application-architectures-for-google-cloud) - Google, 18 August 2020
+- [Designing and Building Modern Data Platform on Google Cloud](https://pupuweb.com/designing-building-modern-data-platform-google-cloud/) - 21 December 2020
+
+## Certifications
+
+- [Certifications](https://cloud.google.com/certification/register)
+- [Professional Data Engineer](https://cloud.google.com/certification/register)
+- [Training for Data Engineer](https://www.roitraining.com/data-engineering-on-google-cloud-platform/)
+
+## Data connectors
+
+- [Writing your data connector from Facebook ads to Google BigQuery](https://medium.com/@snegir/writing-your-data-connector-from-facebook-ads-to-google-bigquery-670caeff8262) - 27 May 2020
+
 ## Dataflow
 
 [Dataflow Under the Hood: the origin story](https://cloud.google.com/blog/products/data-analytics/how-cloud-batch-and-stream-data-processing-works) breaks down the history and background of Dataflow. The article was published on 21 August 2020.
