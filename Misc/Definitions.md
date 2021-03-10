@@ -1,5 +1,47 @@
 # Definitions
 
+## Artificial Intelligence
+
+**<u>Artificial Intelligence</u>**
+
+Artificial Intelligence is the concept of imitating human behaviour. It is used to build tools, agents, bots, and robots that can predict human behavior & act on a human basis. Tesla’s auto-driving cars, Amazon’s Alexa, and Siri are all examples of Artificial intelligence.
+
+In a nutshell, Artificial Intelligence is the science of computers copying human behavior.
+
+There are three common levels:
+
+First, Artificial Narrow Intelligence (ANI) is designed to perform singular tasks & is goal-oriented. ANI is very capable of completing specific tasks it is programmed to do. A few examples of ANI are voice assistants, facial recognition, or driving a car.
+
+Second, Artificial General Intelligence (AGI) is the concept of a machine with general intelligence that can mimic human intelligence and behaviors, with the ability to learn from data and apply its intelligence to solve any problem. Artificial General Intelligence can think, understand, and act in a somewhat similar way to a human in any given situation.
+
+Artificial Superintelligence (ASI) is where machines can become self-aware and surpass human ability and intelligence.
+
+**<u>Machine Learning</u>**
+
+Machine Learning is a subset of Artificial Intelligence that teaches a machine to learn from previous outcomes.
+
+Machine learning models look for patterns in the data and try to conclude outcomes that humans would. Once the algorithm gets really good at drawing outcomes, it starts applying the knowledge to the new data sets and keeps improving.
+
+In a nutshell Machine Learning is the method behind how machines learn from data.
+
+There are different types of Machine Learning:
+
+Supervised Learning is when a large amount of labeled data is fed to the algorithms, and variables that the algorithm needs to assess for correlations are also defined. Supervised learning requires a vast pool of data to master the tasks.
+
+Unsupervised Learning helps the algorithm look for patterns and data sets that don’t have labeled responses. You would use this technique to explore your data but don’t yet have a specific goal. The algorithm scans the data sets and starts segregating data into groups based on characteristics they share.
+
+The mix of supervised & unsupervised learning is called semi-supervised learning. In semi-supervised learning mostly labeled data is fed to an algorithm, yet the model is free to explore & develop its own understanding of the data set.
+
+Reinforcement learning is teaching a machine to complete a multi-step process with clearly defined rules. The algorithm takes its own decisions along the way & gets rewards or penalties for the actions it takes
+
+**<u>Deep Learning</u>**
+
+It would not be an exaggeration to say that deep learning is a technique for implementing Machine Learning. Deep Learning is a subset of machine learning that uses deep neural networks and imitates the network of neurons in a brain, and allows machines to make accurate decisions without humans’ help.
+
+However, deep learning is sometimes seen as an evolution of machine learning. The depth of a model is represented by the number of layers it has. Deep learning is the new state of the art in terms of Artificial Intelligence. In deep learning, the training is done through a neural network.
+
+Deep learning has empowered many practical applications in Artificial Intelligence. Self-driving cars, better healthcare, even better product recommendations are all here today or on the horizon.
+
 ## Advertising
 
 **<u>Demand-side platform (DSP)</u>**

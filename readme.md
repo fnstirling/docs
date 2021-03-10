@@ -17,6 +17,9 @@ Personal notes and curated resources.
 
 - [Building type-safe networking in Swift](https://swiftwithmajid.com/2021/02/10/building-type-safe-networking-in-swift/) - Swift with Majid, 10 Feb 2021
 
+### Machine Learning
+- []()
+
 ## To Monitor
 
 - [HTTP Structure Headers](https://tools.ietf.org/html/draft-ietf-httpbis-header-structure-19) - IETF, 5 December 2020
