@@ -21,7 +21,8 @@ Personal notes and curated resources.
 - [Designing and Building Modern Data Platform on Google Cloud](https://pupuweb.com/designing-building-modern-data-platform-google-cloud/) - 21 December 2020
 
 ### Machine Learning
-- []()
+- [Deep Learning with Jax and Elegy](https://towardsdatascience.com/deep-learning-with-jax-and-elegy-c0765e3ec31a) - 31 August 2020
+- [How Data Scientists Build Machine Learning Models in Real Life](https://towardsdatascience.com/how-data-scientists-build-machine-learning-models-in-real-life-f1f333022fb7) - 18 September 2020
 
 ## To Monitor
 
