@@ -23,9 +23,13 @@
 * [Track keyboard height](https://www.cometchat.com/tutorials/swiftui-architecture-observable-objects-the-environment-and-combine-6-7)
 * [Impossible grids](https://swiftui-lab.com/impossible-grids/)
 
-# Navigation
+## Navigation
 * [How to embed a view in a navigation view](https://www.hackingwithswift.com/quick-start/swiftui/how-to-embed-a-view-in-a-navigation-view) - Hacking with Swift, 9th February 2021
 * [The Complete Guide to NavigationView in SwiftUI](https://www.hackingwithswift.com/articles/216/complete-guide-to-navigationview-in-swiftui) - Hacking with Swift, 6 January 2021
+
+## Widgets
+* [Building Widgets Using WidgetKit and SwiftUI](https://developer.apple.com/documentation/widgetkit/building_widgets_using_widgetkit_and_swiftui)
+* [Getting Started With Widgets](https://www.raywenderlich.com/11303363-getting-started-with-widgets)
 
 ## Examples
 
