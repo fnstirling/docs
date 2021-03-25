@@ -111,3 +111,14 @@ sudo defaults write/System/Library/LaunchDaemons/com.apple.backupd-auto StartInt
 # Check for updates daily
 defaults write com.apple.SoftwareUpdate ScheduleFrequency -int 1
 ```
+
+
+# IP Address Lookup
+```shell
+ping example.com
+dig A example.com
+nslookup example.com
+host example.com
+whois XX.XX.XX.XX
+nmap target --script whois-ip
+``` 
