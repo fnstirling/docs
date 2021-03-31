@@ -1,7 +1,16 @@
 # Docs
 Personal notes and curated resources.
 
+## To Listen
+
+### Swift
+- [“All of our wildest Swift dreams” with special guest Kaitlin Mahar](https://swiftbysundell.com/podcast/92/)
+
 ## To Read
+
+## Programming
+- [Our Software Dependency Problem](https://research.swtch.com/deps) - January 23, 2019
+- [NPM & left-pad: Have We Forgotten How To Program?](https://www.davidhaney.io/npm-left-pad-have-we-forgotten-how-to-program/) - March 23, 2016
 
 ### Swift
 - [Swift sequences: The art of being lazy](https://www.swiftbysundell.com/articles/swift-sequences-the-art-of-being-lazy/) -  Swift by Sundell - 3 
