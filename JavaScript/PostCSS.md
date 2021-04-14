@@ -1,10 +1,12 @@
 # PostCSS
 
-Resources
+## Resources
 - [Website](https://postcss.org/)
-- [Github repo](https://github.com/postcss/postcss)
+- [postcss/postcss](https://github.com/postcss/postcss)
 
-PostCSS plugins
+## Plugins
+
+### Used
 - [autoprefixer](https://github.com/postcss/autoprefixer#browsers)
 - [cssnano](https://github.com/cssnano/cssnano)
 - [postcss-preset-env](https://github.com/csstools/postcss-preset-env)
@@ -13,11 +15,13 @@ PostCSS plugins
 - [postcss-use](https://github.com/postcss/postcss-use)
 - [postcss-utilities](https://github.com/ismamz/postcss-utilities)
 
-Potential PostCSS plugins
+### Potential
 - [Popular plugins](https://github.com/postcss/postcss#plugins)
 - [Plugins](https://github.com/postcss/postcss/blob/main/docs/plugins.md)
 - [postcss-custom-properties](https://github.com/postcss/postcss-custom-properties)
 - [postcss-modules](https://github.com/css-modules/postcss-modules)
+
+## Example Files
 
 package.json
 ```json

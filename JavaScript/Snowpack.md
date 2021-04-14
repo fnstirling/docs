@@ -1,6 +1,9 @@
 # Snowpack
 
+## Resources
 - [Snowpack](https://www.snowpack.dev/)
+
+## Example
 
 snowpack.config.js
 ```javascript
