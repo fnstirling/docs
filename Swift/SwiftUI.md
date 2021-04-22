@@ -31,6 +31,12 @@
 * [Building Widgets Using WidgetKit and SwiftUI](https://developer.apple.com/documentation/widgetkit/building_widgets_using_widgetkit_and_swiftui)
 * [Getting Started With Widgets](https://www.raywenderlich.com/11303363-getting-started-with-widgets)
 
+## Launch Screen
+
+Launch screens should represent the initial state of the app so that it appears to launch faster. Apple recommends that launch screens are not branding opportunity and should not represent a splash screen but rather the state of the app.
+- [How to build a launch screen with SwiftUI](https://betterprogramming.pub/launch-screen-with-swiftui-bd2958771f3b)
+- [Launch screen](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/launch-screen/)
+
 ## Examples
 
 CPU Monitor animation and safely updating SwiftUI View state
