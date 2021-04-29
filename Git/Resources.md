@@ -1,11 +1,12 @@
 # Resources
 
 Documentation
-* [Git Documentation](https://git-scm.com/doc)
-* [Github Documentation](https://docs.github.com/en)
+- [Git Documentation](https://git-scm.com/doc)
+- [Github Documentation](https://docs.github.com/en)
   
 Books
-* [Git Apprentice](https://www.raywenderlich.com/books/git-apprentice)
+- [Git Apprentice](https://www.raywenderlich.com/books/git-apprentice)
   
 Tutorials
-* [How To Use Git Source Control with Xcode 9](https://www.raywenderlich.com/675-how-to-use-git-source-control-with-xcode-9)
+- [How To Use Git Source Control with Xcode 9](https://www.raywenderlich.com/675-how-to-use-git-source-control-with-xcode-9)
+- [Git merge tutorial](https://www.atlassian.com/git/tutorials/using-branches/git-merge)
