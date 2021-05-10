@@ -110,6 +110,9 @@ sudo defaults write/System/Library/LaunchDaemons/com.apple.backupd-auto StartInt
 
 # Check for updates daily
 defaults write com.apple.SoftwareUpdate ScheduleFrequency -int 1
+
+# Power management settings
+pmset -g
 ```
 
 
