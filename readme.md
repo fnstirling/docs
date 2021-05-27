@@ -6,6 +6,12 @@ Personal notes and curated resources.
 ### Swift
 - [“All of our wildest Swift dreams” with special guest Kaitlin Mahar](https://swiftbysundell.com/podcast/92/)
 
+### Blockchain
+- [NFTs - Getting Started Guide for Flippers and Artists!](https://www.youtube.com/watch?v=AnEMkn6C8VU)
+- [Is Audius' $AUDIO Worth the HYPE? (Pros & Cons)](https://www.youtube.com/watch?v=aPaRZ6oh3Cc)
+- [The BASICS of Trading Bitcoin Options! (BTC Puts & Calls Explained)](https://www.youtube.com/watch?v=nrRedLWYsRI)
+- [https://www.youtube.com/watch?v=MsX1m_mDG6s](https://www.youtube.com/watch?v=MsX1m_mDG6s)
+
 ## To Read
 
 ## Programming
