@@ -48,6 +48,9 @@ docker build -t USERNAME/IMAGE_NAME .
 # if you want interactive mode replace -d with -it
 docker run --name MEMORABLE_NAME -p 80:8080 -d USERNAME/IMAGE_NAME
 
+# Run with environment variables
+docker run --env PORT=80080 --name MEMORABLE_NAME -p 80:8080 -d USERNAME/IMAGE_NAME
+
 # Login to docker hub
 # When prompted, enter your Docker Hub account password. Logging in this way will create a ~/.docker/config.json file in your user’s home directory with your Docker Hub credentials.
 docker login -u USERNAME
