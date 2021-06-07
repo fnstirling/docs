@@ -43,6 +43,16 @@ Personal notes and curated resources.
 
 - [Building an Observable type for SwiftUI views](https://www.swiftbysundell.com/tips/building-an-observable-type-for-swiftui-views/) - Swift by Sundell, 14 May 2020
 
+- [apple/swift-evolution](https://github.com/apple/swift-evolution)
+- [Async and Await in Swift 5.5](https://betterprogramming.pub/async-and-await-in-swift-5-5-5c8abb9f4f85)
+- [swift-evolution/proposals/0306-actors.md](https://github.com/apple/swift-evolution/blob/main/proposals/0306-actors.md)
+- [Switch Actors](https://trycombine.com/posts/swift-actors/)
+- [[Concurrency] Structured concurrency](https://forums.swift.org/t/concurrency-structured-concurrency/41622)
+- [Apple proposes actor model for Swift concurrency](https://www.infoworld.com/article/3612176/apple-proposes-actor-model-for-swift-concurrency.html)
+
+- [Introducing Swift on Windows](https://swift.org/blog/swift-on-windows/)
+- [Swift on Windows: Readdle's Experience and Tools](https://sparkmailapp.com/blog/swift-windows)
+
 ### GCP Architecture
 - [Designing and Building Modern Data Platform on Google Cloud](https://pupuweb.com/designing-building-modern-data-platform-google-cloud/) - 21 December 2020
 
