@@ -16,10 +16,19 @@ Personal notes and curated resources.
 
 ## Blockchain && Cryptocurrency
 - [Bitcoin and Ethereum Are Dead (And Their Honest Investors Know It)](https://medium.com/surviving-tomorrow/bitcoin-and-ethereum-are-dead-and-their-honest-investors-know-it-a36ee97df89d)
+- [Solana staking](https://docs.solana.com/staking)
+- [Solan staking faq](https://support.exodus.com/article/1551-solana-staking-faq)
+- [Solflare](https://solflare.com/)
+- [Staking on Solana](https://docs.solana.com/staking)
+- [How to stake Serum](https://docs.projectserum.com/staking/about-staking/staking-srm)
+- [Staking serum](https://docs.projectserum.com/staking/about-staking)
 
 ## Education
 - [Top 10 Most Useful Online Courses That Are Free](https://medium.com/swlh/the-top-10-most-useful-online-courses-you-can-take-for-free-411aaa0dd80d)
 - [Follow Elon Musk’s Advice and Skip the MBA. Read These 10 Books Instead](https://entrylevelrebel.medium.com/follow-elon-musks-advice-and-skip-the-mba-read-these-10-books-instead-e01d8d9c9a0f)
+
+## GCP
+- [MLOps Tools Part 3: Cloud Functions vs. Cloud Run for Model Serving](https://datatonic.com/insights/cloud-functions-cloud-run-model-serving/)
 
 ## Programming
 - [Our Software Dependency Problem](https://research.swtch.com/deps) - January 23, 2019
