@@ -14,9 +14,18 @@ Personal notes and curated resources.
 
 ## To Read
 
+## Blockchain && Cryptocurrency
+- [Bitcoin and Ethereum Are Dead (And Their Honest Investors Know It)](https://medium.com/surviving-tomorrow/bitcoin-and-ethereum-are-dead-and-their-honest-investors-know-it-a36ee97df89d)
+
+## Education
+- [Top 10 Most Useful Online Courses That Are Free](https://medium.com/swlh/the-top-10-most-useful-online-courses-you-can-take-for-free-411aaa0dd80d)
+- [Follow Elon Musk’s Advice and Skip the MBA. Read These 10 Books Instead](https://entrylevelrebel.medium.com/follow-elon-musks-advice-and-skip-the-mba-read-these-10-books-instead-e01d8d9c9a0f)
+
 ## Programming
 - [Our Software Dependency Problem](https://research.swtch.com/deps) - January 23, 2019
 - [NPM & left-pad: Have We Forgotten How To Program?](https://www.davidhaney.io/npm-left-pad-have-we-forgotten-how-to-program/) - March 23, 2016
+- [Remove Your If-Else and Switch Cases](https://levelup.gitconnected.com/remove-your-if-else-and-switch-cases-1ed2b625b4cf)
+- [https://preettheman.medium.com/these-are-the-most-in-demand-programming-languages-in-2021-ef861eb6ab73](https://preettheman.medium.com/these-are-the-most-in-demand-programming-languages-in-2021-ef861eb6ab73)
 
 ### Swift
 - [Swift sequences: The art of being lazy](https://www.swiftbysundell.com/articles/swift-sequences-the-art-of-being-lazy/) -  Swift by Sundell - 3 
@@ -36,6 +45,10 @@ Personal notes and curated resources.
 
 ### GCP Architecture
 - [Designing and Building Modern Data Platform on Google Cloud](https://pupuweb.com/designing-building-modern-data-platform-google-cloud/) - 21 December 2020
+
+### GCP
+- [Using Recommendations for Infrastructure as Code](https://cloud.google.com/recommender/docs/tutorial-iac#:~:text=Infrastructure%20as%20Code(IaC)%20enables,Google%20Cloud%20organization%20through%20it.)
+- [Using Terraform with Google Cloud](https://cloud.google.com/docs/terraform)
 
 ### Machine Learning
 - [Deep Learning with Jax and Elegy](https://towardsdatascience.com/deep-learning-with-jax-and-elegy-c0765e3ec31a) - 31 August 2020
